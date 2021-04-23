@@ -1,9 +1,9 @@
 {
-  "name": "secretgen",
-  "version": "0.0.1",
+  "name": "secgen",
+  "version": "0.0.2",
   "description": "Generates secrets",
   "bin": {
-    "secretgen": "./bin/index.js"
+    "secgen": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
